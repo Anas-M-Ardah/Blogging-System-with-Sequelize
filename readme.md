@@ -218,3 +218,4 @@ To run this project locally, you need to have Docker and Node.js installed. Here
    ```
 
 Your app will be running on [http://localhost:3000](http://localhost:3000).
+For more info visit: https://deepwiki.com/Anas-M-Ardah/Blogging-System-with-Sequelize
